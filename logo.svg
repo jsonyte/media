@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="jsonyte-final.svg"
+   inkscape:export-filename="C:\Users\rober\OneDrive\Logos\jsonyte-small.png"
+   inkscape:export-xdpi="31.34"
+   inkscape:export-ydpi="31.34"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="172.85714"
+     inkscape:cy="567.14286"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showborder="false"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ee5041;fill-opacity:1;stroke-width:0.134668;stroke-opacity:0.318548"
+       id="path1082-3-5-2-7"
+       cx="133.04758"
+       cy="133.04762"
+       r="51.86602" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.7211px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:13.2292px;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.36313"
+       x="93.181168"
+       y="157.85933"
+       id="text2739-2-8-8-6-1-2-9-2-9-3-9"
+       transform="scale(1.0507459,0.95170489)"><tspan
+         sodipodi:role="line"
+         id="tspan2737-9-7-2-4-9-2-8-7-0-6-8"
+         x="93.181168"
+         y="157.85933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.7211px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#ffffff;fill-opacity:1;stroke-width:0.36313">{}</tspan></text>
+  </g>
+</svg>
